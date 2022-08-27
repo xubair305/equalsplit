@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "903393522242",
+    "project_id": "equal-split",
+    "storage_bucket": "equal-split.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:903393522242:android:75a01d11e628f6304ab3db",
+        "android_client_info": {
+          "package_name": "com.xbr.equalsplit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "903393522242-9epp9ihip0sh8jk0f6akem9q2mcjvep0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyARLOarNk61znrbgAZA2PrKHbyL_w-c6NA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "903393522242-9epp9ihip0sh8jk0f6akem9q2mcjvep0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
