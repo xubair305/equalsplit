@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:get/get.dart';
 
 import 'pages/home_page/view/home_page.dart';
 
@@ -11,7 +12,7 @@ class MyMaterialApp extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    return MaterialApp(
+    return GetMaterialApp(
       title: 'Equal Split',
       theme: ThemeData(
         primarySwatch: Colors.blue,
